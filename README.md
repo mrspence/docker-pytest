@@ -6,6 +6,8 @@ Simple Docker image to run pytest on python (3.8) code.
 
 ### Single run via CLI
 
+Navigate to your project directory and then...
+
 #### Git Bash (Windows)
 
 ```shell
